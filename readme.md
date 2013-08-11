@@ -9,3 +9,7 @@ This is a Chrome extension for people who have slow network connection and/or li
 # License 
 
 The software stands under The MIT License and comes with NO WARRANTY
+
+# Download
+
+https://chrome.google.com/webstore/detail/textfirst/ohjaggojgjiabnkcdogonglbfadljffn
